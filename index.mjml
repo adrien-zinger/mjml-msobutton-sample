@@ -1,0 +1,11 @@
+<mjml>
+  <mj-body>
+    <mj-section>
+      <mj-column>
+        <mj-msobutton font-family="verdana" border="2px solid #ccc000" mso-proof="true" border-radius="20px" background-color="#f45e43" color="white">
+          Don't click me!
+         </mj-button>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
