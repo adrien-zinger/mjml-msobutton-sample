@@ -3,7 +3,7 @@
 **Custom MJML component**
 
 Here you can see an example of a working project with mj-msobutton.
-Look at (the documentation)[https://documentation.mjml.io/#community-components] and also the (github repository)[https://github.com/adrien-zinger/mjml-mso-button].
+Look at [the documentation](https://documentation.mjml.io/#community-components) and also the [github repository](https://github.com/adrien-zinger/mjml-mso-button).
 
 
 ## Install
